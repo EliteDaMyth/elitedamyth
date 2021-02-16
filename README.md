@@ -1,5 +1,7 @@
 [![Imaage](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/image.png?raw=true)](https://github.com/EliteDaMyth)
 
+# Update
+I am going to be away for the next 2 years, starting February 2021. I have to focus on my studies, and cannot have any distractions. I am sorry if i am not able to reply to your pull request/issue.
 
 Yea, The above image is quite cool :P
 
