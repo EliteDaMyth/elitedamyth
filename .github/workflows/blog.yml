@@ -1,11 +1,5 @@
 name: Update Recent Blog Posts
 
-on:
-  push:
-    branches: [master]
-  schedule:
-    - cron:  30 * * * *
-
 jobs:
   update:
     runs-on: ubuntu-latest
